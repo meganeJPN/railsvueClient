@@ -1,0 +1,11 @@
+# Ignore IDE setting
+.idea
+
+# node modules
+node_modules
+
+# .DS_Store
+.DS_Store
+
+# env
+.env
